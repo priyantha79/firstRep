@@ -1,0 +1,8 @@
+<!-- <!? xml file is created wit .xml by rigt clicking on maven project and select new file></!?> -->
+ 
+<!-- suite name set of test cases set of tests usually project name  -->
+<!--  test name testing cycle or sanity or regression etc -->
+
+<!-- class class name to be given as packagename.classname -->
+<!-- parameterization can be done using xml or excel file and by using tag parameter this test data is passed to scripts using testng annotation @parameter -->
+<!-- create suite create test parameter info -->

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15247" started-at="2020-09-03T20:48:05Z" finished-at="2020-09-03T20:48:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15247" started-at="2020-09-03T20:48:05Z" finished-at="2020-09-03T20:48:20Z">
+      <class name="com.TESTNGScripts.ReadDataFromExcel">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.TESTNGScripts.ReadDataFromExcel@5e316c74]" name="setup" is-config="true" duration-ms="13193" started-at="2020-09-03T20:48:05Z" finished-at="2020-09-03T20:48:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="wikipagedata(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.TESTNGScripts.ReadDataFromExcel@5e316c74]" name="wikipagedata" duration-ms="605" started-at="2020-09-03T20:48:19Z" data-provider="inputdata" finished-at="2020-09-03T20:48:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[us1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pwd1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pwd1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[abc@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wikipagedata -->
+        <test-method status="PASS" signature="wikipagedata(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.TESTNGScripts.ReadDataFromExcel@5e316c74]" name="wikipagedata" duration-ms="436" started-at="2020-09-03T20:48:19Z" data-provider="inputdata" finished-at="2020-09-03T20:48:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[us2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pwd2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pwd2]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[abc@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wikipagedata -->
+        <test-method status="PASS" signature="wikipagedata(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.TESTNGScripts.ReadDataFromExcel@5e316c74]" name="wikipagedata" duration-ms="335" started-at="2020-09-03T20:48:20Z" data-provider="inputdata" finished-at="2020-09-03T20:48:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[us3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pwd3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pwd3]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[abc@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wikipagedata -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.TESTNGScripts.ReadDataFromExcel@5e316c74]" name="closeBrowser" is-config="true" duration-ms="360" started-at="2020-09-03T20:48:20Z" finished-at="2020-09-03T20:48:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.TESTNGScripts.ReadDataFromExcel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
